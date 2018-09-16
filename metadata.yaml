@@ -1,0 +1,36 @@
+_repo: The-Spy-in-the-Elevator_51687
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: West
+    gutenberg_agent_id: '48875'
+    url: http://www.gutenberg.org/2009/agents/48875
+creator:
+  author:
+    agent_name: Westlake, Donald E.
+    aliases:
+    - Westlake, D. E. (Donald E.)
+    - Westlake, Donald Edwin Edmund
+    birthdate: 1933
+    deathdate: 2008
+    gutenberg_agent_id: '32451'
+    url: http://www.gutenberg.org/2009/agents/32451
+    wikipedia: http://en.wikipedia.org/wiki/Donald_E._Westlake
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Post-apocalyptic fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Spy in the Elevator
+url: http://www.gutenberg.org/ebooks/51687
