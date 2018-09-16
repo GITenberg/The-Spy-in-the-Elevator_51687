@@ -5,6 +5,9 @@ contributor:
     agent_name: West
     gutenberg_agent_id: '48875'
     url: http://www.gutenberg.org/2009/agents/48875
+covers:
+- cover_type: archival
+  image_path: 51687-h/images/cover.jpg
 creator:
   author:
     agent_name: Westlake, Donald E.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32451
     wikipedia: http://en.wikipedia.org/wiki/Donald_E._Westlake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51687#The-Spy-in-the-Elevator
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-07'
 gutenberg_type: Text
